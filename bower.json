@@ -1,0 +1,26 @@
+{
+  "name": "keap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "billdc"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "just",
+    "4",
+    "fun"
+  ],
+  "homepage": "https://github.com/billdc/kaep",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile-bower": "^1.4.5",
+    "jquery": "^1.11.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "keap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billdc/kaep.git"
+  },
+  "keywords": [
+    "just",
+    "4",
+    "fun"
+  ],
+  "author": "billdc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billdc/kaep/issues"
+  },
+  "homepage": "https://github.com/billdc/kaep#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
