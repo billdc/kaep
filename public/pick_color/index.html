@@ -14,8 +14,12 @@
 <body>
     <div data-role="page">
         <div data-role="content">
-            <div class="dialog top"></div>
-            <div class="dialog bottom"></div>
+            <div class="dialog top">
+                <span id="box1">黑色</span>
+            </div>
+            <div class="dialog bottom">
+                <span id="box2">黑色</span>
+            </div>
             <fieldset class="ui-grid-a buttons">
 
                 <div class="ui-block-a">
@@ -27,9 +31,14 @@
                 </div>
             </fieldset>
         </div>
+        <div class="modal"></div>
+        <div class="msg" id="msg">
+            正确!!!
+        </div>
     </div>
 </body>
 <script src="/js/jquery.min.js"></script>
 <script src="/js/jquery.mobile-1.4.5.min.js"></script>
+<script src="/js/pick_color/main.js"></script>
 
 </html>
